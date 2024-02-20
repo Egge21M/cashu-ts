@@ -84,8 +84,8 @@ If you open a PR, please do so from the `development` branch as the base branch.
 | | | |
 | | |/
 | | *
-| | |\ `feature2`
-| | | |
+| | |\ 
+| | | * `feature2`
 | | |/
 | |/
 |/ (create new version)
